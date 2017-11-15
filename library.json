@@ -1,0 +1,17 @@
+{
+    "name": "TSL2561",
+    "version": "1.0.0",
+    "keywords": "TSL2561",
+    "description": "TSL2561光强传感器库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/TSL2561.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+

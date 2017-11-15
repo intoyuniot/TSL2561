@@ -1,0 +1,44 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ TSL2561   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+setPowerUp  KEYWORD2
+setPowerDown  KEYWORD2
+setTiming  KEYWORD2
+manualStart  KEYWORD2
+manualStop  KEYWORD2
+getData  KEYWORD2
+getLux  KEYWORD2
+getLuxInt  KEYWORD2
+setInterruptControl  KEYWORD2
+setInterruptThreshold  KEYWORD2
+clearInterrupt  KEYWORD2
+getID  KEYWORD2
+getError  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+TSL2561_ADDR  LITERAL1
+TSL2561_CMD  LITERAL1
+TSL2561_CMD_CLEAR  LITERAL1
+TSL2561_REG_CONTROL  LITERAL1
+TSL2561_REG_TIMING  LITERAL1
+TSL2561_REG_THRESH_L  LITERAL1
+TSL2561_REG_THRESH_H  LITERAL1
+TSL2561_REG_INTCTL  LITERAL1
+TSL2561_REG_ID  LITERAL1
+TSL2561_REG_DATA_0  LITERAL1
+TSL2561_REG_DATA_1  LITERAL1
